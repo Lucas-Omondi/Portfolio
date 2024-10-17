@@ -988,6 +988,12 @@ textarea.contact-input {
     left: 250px;
     background-color: var(--rufous);
   }
+  .abs-icon-4{
+    bottom: -20px;
+    left: -10px;
+    font-size: 50px;
+    background-color: royalblue;
+  }
 
 
 
